@@ -138,3 +138,26 @@ form:hover .fa {
 .search{
     
 }
+
+footer{
+        background: #303036;
+        color: #d3d3d3;
+        height: 400px;
+        position: relative;
+    }
+
+.konten-futer{
+  
+}
+
+.bawah-futer{
+    background: #343a40;
+    color: #686868;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 20px; 
+}
